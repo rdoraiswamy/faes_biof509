@@ -10,4 +10,4 @@ To launch the Jupyter notebook, click on https://github.com/rdoraiswamy/faes_bio
 
 From https://github.com/amueller/introduction_to_ml_with_python/blob/master/environment.yml, I created the YAML file so that ipyn notebooks can launh from github https://github.com/rdoraiswamy/faes_biof509/blob/master/environment.yml
 
-Also the https://github.com/rdoraiswamy/faes_biof509/requirements.txt is needed for loading up the necessary libraries when using the Binder https://mybinder.org/v2/gh/rdoraiswamy/faes_biof509/master
+Also the https://github.com/rdoraiswamy/faes_biof509/requirements.txt is needed for loading up the necessary libraries when using the Binder https://mybinder.org/v2/gh/rdoraiswamy/faes_biof509/master/Week1-assignment_Copy.ipynb
