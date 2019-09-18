@@ -2,8 +2,7 @@ name: python-ml
 dependencies:
   - numpy
   - scipy
-  - scikit-learn
-  - sklearn
+  - scikit-learn 
   - matplotlib
   - pandas
   - pillow
