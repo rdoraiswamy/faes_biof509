@@ -4,7 +4,7 @@ This is the repository for NIH FAES BIOF509 - Applied Machine Learning with Pyth
 
 ## Learnings from class and exercises
 
-###2019-09-17:
+### 2019-09-17:
 
 From https://github.com/amueller/introduction_to_ml_with_python/blob/master/environment.yml, I created the YAML file so that ipyn notebooks can launh from github https://github.com/rdoraiswamy/faes_biof509/blob/master/environment.yml
 
